@@ -19,18 +19,18 @@ Technologies Used
 How to Use
 
 1.	Clone the repository:
-    git clone https://github.com/Mohini-vashisth/OutfitHunt.git
-    cd OutfitHunt
+• git clone https://github.com/Mohini-vashisth/OutfitHunt.git
+• cd OutfitHunt
 
 2.	Install dependencies:
-    pip install -r requirements.txt
+• pip install -r requirements.txt
 
 3.	Process a reel:
-	run the scripts/main.py and input reel URL
+• run the scripts/main.py and input reel URL
 
 4.	View the results:
-	•	The script will generate output frames with detected clothing regions and save them in the output/ folder.
-	•	Matching items from the web (if implemented) will be displayed in the console or saved as a file.
+•	The script will generate output frames with detected clothing regions and save them in the output/ folder.
+•	Matching items from the web (if implemented) will be displayed in the console or saved as a file.
 
 Folder Structure
 
