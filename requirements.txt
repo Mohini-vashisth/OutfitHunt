@@ -1,0 +1,8 @@
+opencv-python==4.8.0
+numpy==1.24.3
+pandas==2.0.1
+scikit-learn==1.3.1
+torch==2.0.1          # If using PyTorch
+tensorflow==2.13.0    # If using TensorFlow (choose one between PyTorch and TensorFlow)
+matplotlib==3.7.1
+seaborn==0.12.2
