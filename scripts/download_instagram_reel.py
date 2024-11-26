@@ -33,8 +33,3 @@ def download_instagram_reel(instagram_url, output_path="../downloads"):
         print(f"Error downloading Reel: {e}")
         return None
 
-if __name__ == "__main__":
-    # Example usage
-    reel_url = input("Enter the Instagram Reel URL: ")
-    video_path = download_instagram_reel(reel_url)
-    print(f"Video saved at: {video_path}")
